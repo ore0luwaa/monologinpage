@@ -1,0 +1,99 @@
+.head{
+    background-image: url(Screenshot_23-9-2024_11953_.jpeg);
+}
+
+.container{
+    align-items: center;
+    width: 320px;
+    padding: 20px;
+    background-color: white;
+    margin: auto;
+    border-radius: 25px;
+    height: 400px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+input {
+    padding: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    border: solid gray 0.6px;
+    width: 280px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    height: 11px;
+}
+.signin{
+    text-align: center;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dash{
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.inputbox1{
+    border-radius: 11px;
+    border: transparent;
+    padding-bottom: 15px;
+    font-weight: bold;
+
+}
+.inputbox2{
+    padding-bottom: 9px;
+    border-radius: 11px;
+    border: transparent;
+}
+.btn0 {
+    border: none;
+    background-color: transparent;
+    margin-bottom: 6px;
+    color: blue;
+    font-size: small;
+    display: flex; 
+}
+.sign {
+    padding: 0.7rem;
+    border-radius: 6px;
+    background-color: blue;
+    color: white;
+    font-size: small;
+    border: solid gray 0.4px;
+    width: 310px;
+    margin-bottom: 6px; 
+}
+.wavee{
+    padding: 0.5rem;
+    border: none;
+    background-color: transparent;
+    padding-left: 60px;
+    margin-top: 20px;
+    color: rgb(100, 97, 97);
+    display: flex;
+}
+button a {
+    text-decoration: none;
+    color: blue;
+    display: flex;
+}
+.footer {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    
+}
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-size: small;
+}
